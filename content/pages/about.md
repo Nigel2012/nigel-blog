@@ -3,7 +3,7 @@ template: page
 title: About me
 slug: about-me
 socialImage: /media/image-2.jpg
-draft: true
+draft: false
 ---
 I am a Finance Professional and business founder with interests in product development, retail and tech. Currently Co-Founder and Director of Finance at [La Nostra Ciutat](https://lanostraciutat.co/) in Barcelona. Founded in 2016, La Nostra Ciutat works with design talent to create gift and homeware products which are sold through our retail locations. It is currently considered Barcelona's largest giftware chain.
 
