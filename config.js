@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://nigel-blog.netlify.app/',
   pathPrefix: '/',
   title: 'Nigel Westwood',
-  subtitle: 'Finance and Strategy professional trying to get a little better every day.',
+  subtitle: 'Founder @ La Nostra Ciutat BCN. \n Finance and Strategy professional trying to get a little better every day.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 6,
