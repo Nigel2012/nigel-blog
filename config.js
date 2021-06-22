@@ -25,18 +25,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Nigel Westwood',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Finance and Strategy professional trying to get a little better every day.',
     contacts: {
-      email: '',
+      email: 'nigel@nigelwestwood.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
       github: '#',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'nigelwestwood/',
       instagram: '#',
       line: '',
       gitlab: '',
