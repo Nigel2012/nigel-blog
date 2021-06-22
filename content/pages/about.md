@@ -1,13 +1,14 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: About me
+slug: about-me
+socialImage: /media/image-2.jpg
+draft: true
 ---
+I am a Finance Professional and business founder with interests in product development, retail and tech. Currently Co-Founder and Director of Finance at [La Nostra Ciutat](https://lanostraciutat.co/) in Barcelona. Founded in 2016, La Nostra Ciutat works with design talent to create gift and homeware products which are sold through our retail locations. It is currently considered Barcelona's largest giftware chain.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+My recent focus has been on development of technology products covering the business intelligence and machine learning spaces.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+My undergraduate degree is in Business Administration from the University of Bath and I am currently pursuing a masters in Computer Science. Before founding La Nostra Ciutat I had previously worked in the Investment Banking industry, as well as founded several online retail companies. I was a finalist in the [Shell LiveWire UK Young Entrepreneur of the Year award ](https://www.shell.co.uk/media/2014-media-releases/daniel-murray-28-is-shell-livewire-young-entrepreneur-of-the-year/_jcr_content/par/textimage_3.disclaimer.html/aHR0cHM6Ly90d2l0dGVyLmNvbS9zaGVsbF9zb2NpZXR5/go.html)in 2014.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+If you wish to discuss a project or potential collaboration, please get in touch via [email](mailto:nigel@nigelwestwood.com) and I will endeavour to reply!
