@@ -5,8 +5,9 @@ slug: predicting-covid
 socialImage: /media/image-4.jpg
 draft: false
 date: 2021-07-13T10:21:12.026Z
-description: How the impact of COVID was so predictable after the fact and so
-  impossible before it
+description: "COVID-19 changed the world we live in in a multitude of ways, but
+  why were we not prepared for such a world changing event? Is it possible to
+  learn lessons that can help us to predict future COVID style events? "
 category: Ideas
 ---
 One of my focuses during COVID has been trying to make sense out of this enormous event that has impacted us all in such profound ways, but was wholly ignored before the event. Given this, I have recently been reading Nassim Taleb's Black Swan again. Where else to turn to make sense of this event than to the modern master himself? 
