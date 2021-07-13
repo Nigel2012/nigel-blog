@@ -11,6 +11,8 @@ category: Ideas
 ---
 One of my focuses during COVID has been trying to make sense out of this enormous event that has impacted us all in such profound ways, but was wholly ignored before the event. Given this, I have recently been reading Nassim Taleb's Black Swan again. Where else to turn to make sense of this event than to the modern master himself? 
 
+**What You Know Can't Hurt?**
+
 One idea of his has really struck a chord with me and I can't quite get it out of my head: 
 
 > What you know can't really hurt you.
@@ -20,6 +22,8 @@ Take Nassim's favourite example, the Turkey on Thanksgiving. It has been cared f
 Yet when we apply this lesson to COVID it only half stacks up. There have been many warning shots across the bow of humanity when it comes to deadly viruses. We have records going back thousands of years which show evidence of plagues across the globe, far more devastating ones than we are currently experiencing. In recent years we have seen SARS, MERS, Ebola and Swine Flu. There were experts warning all of us. Yet we didn't listen. I am interested in why?
 
 Perhaps it comes down to the difference between being *told* something and *knowing*. Whilst we had been warned by experts, not many people around the world (including those in power positions) have the expertise to really understand the dynamics of a viral outbreak and the uncertainties that they involve. The relative probability of such an event getting out of control was likely underestimated by a huge factor too, the central theme of Taleb's book. 
+
+**Predicting the Next COVID**
 
 But what lessons can we draw? If what we know can't hurt us as we are already prepared for it, how can we prepare for what we do not yet know? Are we even able to fathom what we don't know? 
 
