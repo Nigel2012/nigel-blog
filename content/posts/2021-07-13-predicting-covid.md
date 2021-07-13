@@ -10,8 +10,6 @@ description: "COVID-19 changed the world we live in in a multitude of ways, but
   learn lessons that can help us to predict future COVID style events? "
 category: Ideas
 ---
-* What You Know Can't Hurt?
-
 One of my focuses during COVID has been trying to make sense out of this enormous event that has impacted us all in such profound ways, but was wholly ignored before the event. Given this, I have recently been reading Nassim Taleb's Black Swan again. Where else to turn to make sense of this event than to the modern master himself? 
 
 ## **What You Know Can't Hurt?**
