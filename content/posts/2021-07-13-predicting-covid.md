@@ -10,9 +10,11 @@ description: "COVID-19 changed the world we live in in a multitude of ways, but
   learn lessons that can help us to predict future COVID style events? "
 category: Ideas
 ---
+* What You Know Can't Hurt?
+
 One of my focuses during COVID has been trying to make sense out of this enormous event that has impacted us all in such profound ways, but was wholly ignored before the event. Given this, I have recently been reading Nassim Taleb's Black Swan again. Where else to turn to make sense of this event than to the modern master himself? 
 
-**What You Know Can't Hurt?**
+## **What You Know Can't Hurt?**
 
 One idea of his has really struck a chord with me and I can't quite get it out of my head: 
 
@@ -24,7 +26,7 @@ Yet when we apply this lesson to COVID it only half stacks up. There have been m
 
 Perhaps it comes down to the difference between being *told* something and *knowing*. Whilst we had been warned by experts, not many people around the world (including those in power positions) have the expertise to really understand the dynamics of a viral outbreak and the uncertainties that they involve. The relative probability of such an event getting out of control was likely underestimated by a huge factor too, the central theme of Taleb's book. 
 
-**Predicting the Next COVID**
+## **Predicting the Next COVID**
 
 But what lessons can we draw? If what we know can't hurt us as we are already prepared for it, how can we prepare for what we do not yet know? Are we even able to fathom what we don't know? 
 
