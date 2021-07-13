@@ -3,7 +3,7 @@ template: post
 title: Predicting Covid
 slug: predicting-covid
 socialImage: /media/image-4.jpg
-draft: true
+draft: false
 date: 2021-07-13T10:21:12.026Z
 description: How the impact of COVID was so predictable after the fact and so
   impossible before it
