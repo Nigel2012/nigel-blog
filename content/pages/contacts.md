@@ -10,7 +10,6 @@ If you wish to discuss any articles or a project, feel free to send me an email 
 Alternatively you can find me on Twitter or LinkedIn.
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-
 <script>
   hbspt.forms.create({
 	region: "na1",
